@@ -5,7 +5,7 @@
   
 > **Формат:** удалённо  
 > **Желаемая позиция:** тестировщик ПО (Junior) / стажировка  
-> **Контакты:** +7 999 065-00-16 (основной), nikita4651@ya.ru
+> **Контакты:** +7 999 065-00-16 (основной), [nikita4651@ya.ru](mailto:nikita4651@ya.ru)
 > **Telegram:** [@Nikita_4651]  [Telegram](https://t.me/Nikita_4651)
 ---
 
@@ -77,8 +77,9 @@
 
 **Примеры дефектов:** локализация NullPointerException, NumberFormatException, StringIndexOutOfBoundsException; подтверждение исправлений автотестами и JDBC‑проверками.
 
-**Где посмотреть все ссылки на полную работу ручного тестирования:** [Задание ручного тестирование](https://disk.yandex.ru/edit/d/FgraY_FWf3alDqO54ueBCSPegnqahzm72s0qoIz-cKg6MkJucUhLMTk4dw?source=docs&sk=ye99127ab769dfc4a342ba7728ce6a9ea)
+ **Где посмотреть все ссылки на полную работу ручного тестирования:** [Задание ручного тестирование](https://disk.yandex.ru/edit/d/FgraY_FWf3alDqO54ueBCSPegnqahzm72s0qoIz-cKg6MkJucUhLMTk4dw?source=docs&sk=ye99127ab769dfc4a342ba7728ce6a9ea)
 Объект тестирования: интернет-магазин https://henderson.ru.
+
 ---
 
 ## Обучение
@@ -125,5 +126,5 @@
 ## Контакты
 
 - Телефон (предпочтительный): +7 999 065-00-16
-- Email: nikita4651@ya.ru
-- Telegram: [ССЫЛКА или ник]
+- Email: [nikita4651@ya.ru](mailto:nikita4651@ya.ru)
+- Telegram: [@Nikita_4651]  [Telegram](https://t.me/Nikita_4651)
