@@ -7,6 +7,7 @@
 > **Желаемая позиция:** тестировщик ПО (Junior) / стажировка  
 > **Контакты:** +7 999 065-00-16 (основной), [nikita4651@ya.ru](mailto:nikita4651@ya.ru)
 > **Telegram:** [@Nikita_4651]  [Telegram](https://t.me/Nikita_4651)
+> **Резюме:** [Посмотреть резюме](https://krasnodar.hh.ru/resume/c623ce9fff0659dee50039ed1f636c716a3770?hhtmFrom=applicant_profile&print=true)
 ---
 
 ## Кратко о себе
