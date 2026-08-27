@@ -45,8 +45,8 @@
 - Отчёты Allure с наглядной статистикой и упавшими тестами.
 - Баг‑репорты в Issues: шаги воспроизведения, ожидаемый/фактический результат, скриншоты, логи.
 
-**Результат:** (https://github.com/Nikita4651/HW7)
-**Отчёты:** (https://github.com/Nikita4651/HW10)
+**Результат:** [Задание](https://github.com/Nikita4651/HW7)
+**Отчёты:** [Задание с отчетом](https://github.com/Nikita4651/HW10)
 
 ---
 
@@ -61,7 +61,7 @@
 
 **Результат:** стабильный запуск тестов.
 
-**Где посмотреть:** (https://github.com/Nikita4651/HW9)
+**Где посмотреть:** [Задание](https://github.com/Nikita4651/HW9)
 
 ---
 
@@ -77,8 +77,8 @@
 
 **Примеры дефектов:** локализация NullPointerException, NumberFormatException, StringIndexOutOfBoundsException; подтверждение исправлений автотестами и JDBC‑проверками.
 
-**Где посмотреть все ссылки на полную работу ручного тестирования:** (https://disk.yandex.ru/edit/d/FgraY_FWf3alDqO54ueBCSPegnqahzm72s0qoIz-cKg6MkJucUhLMTk4dw?source=docs&sk=ye99127ab769dfc4a342ba7728ce6a9ea)
-
+**Где посмотреть все ссылки на полную работу ручного тестирования:** [Задание ручного тестирование](https://disk.yandex.ru/edit/d/FgraY_FWf3alDqO54ueBCSPegnqahzm72s0qoIz-cKg6MkJucUhLMTk4dw?source=docs&sk=ye99127ab769dfc4a342ba7728ce6a9ea)
+Объект тестирования: интернет-магазин https://henderson.ru.
 ---
 
 ## Обучение
@@ -109,16 +109,16 @@
 
 ## Ссылки (куда ставить)
 
-| Категория                                       | Что сюда вставить |
-|-------------------------------------------------|---|
-| Репозиторий проекта,Allure‑отчёты,Docker‑файлы,Примеры баг‑репортов | (https://github.com/Nikita4651/Coursework) |
+| Категория                                       | Что сюда вставить                                           |
+|-------------------------------------------------|-------------------------------------------------------------|
+| Репозиторий проекта,Allure‑отчёты,Docker‑файлы,Примеры баг‑репортов | [Курсовая работа](https://github.com/Nikita4651/Coursework) |
 
 **Сертификаты:**
-1. [certificate.pdf](certificates/certificate.pdf)
-2. [certificate1.pdf](certificates/certificate1.pdf)
-3. [certificate11.pdf](certificates/certificate11.pdf)
-4. [certificate12.pdf](certificates/certificate12.pdf)
-5. [certificate по 4 модулям.pdf](certificates/certificate%20%D0%BF%D0%BE%204%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D0%BC.pdf)
+1. [Сертификат об оканчании модуля](certificates/certificate.pdf)
+2. [Сертификат об оканчании модуля](certificates/certificate1.pdf)
+3. [Сертификат об оканчании модуля](certificates/certificate11.pdf)
+4. [Сертификат об оканчании модуля](certificates/certificate12.pdf)
+5. [Сертификат об оканчании модуля](certificates/certificate%20%D0%BF%D0%BE%204%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D0%BC.pdf)
 
 ---
 
