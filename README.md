@@ -116,11 +116,11 @@
 | Репозиторий проекта,Allure‑отчёты,Docker‑файлы,Примеры баг‑репортов | [Курсовая работа](https://github.com/Nikita4651/Coursework) |
 
 **Сертификаты:**
-1. [Сертификат об оканчании модуля](certificates/certificate.pdf)
-2. [Сертификат об оканчании модуля](certificates/certificate1.pdf)
-3. [Сертификат об оканчании модуля](certificates/certificate11.pdf)
-4. [Сертификат об оканчании модуля](certificates/certificate12.pdf)
-5. [Сертификат об оканчании модуля](certificates/certificate%20%D0%BF%D0%BE%204%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D0%BC.pdf)
+1. [Сертификат "Ручное тестирование веб-приложений"](certificates/certificate.pdf)
+2. [Сертификат "Git-система контроля версий"](certificates/certificate1.pdf)
+3. [Сертификат "Автоматизированное тестирование"](certificates/certificate11.pdf)
+4. [Сертификат "JAVA-для тестировщиков"](certificates/certificate12.pdf)
+5. [Сертификат "Промежуточные итоги по 4 модулям (курсовая работа)"](certificates/certificate%20%D0%BF%D0%BE%204%20%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8F%D0%BC.pdf)
 
 ---
 
