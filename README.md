@@ -1,5 +1,6 @@
 # Портфолио: Никита, Junior QA Engineer
-![IMG_4952.JPG  width="110" height="120 /](certificates/IMG_4952.JPG)
+
+<img src="certificates/IMG_4952.JPG" alt="Сертификат" width="400">
 
   
 > **Формат:** удалённо  
